@@ -7,6 +7,7 @@ A collection of third party add-ons for [Elementor](https://elementor.com/) page
 
 ## Third-Party Add-Ons
 
+* [Elementor Extended Animation Widgets](https://internetcss.com/launch-of-elementor-extended-widgets/) - Elementor Extended Widgets helps you easily add animated Text Effects and sexy Canvas Effects to your website.
 * [Elementor Addon Elements](https://wordpress.org/plugins/addon-elements-for-elementor-page-builder/) - Add new elements to Elementor page builder.
 * [Page Templater For Elementor](https://wordpress.org/plugins/elementor-templater/) - A helper plugin for users of Elementor Page Builder.
 * [SJ Elementor Addon](https://wordpress.org/plugins/sj-elementor-addon/) - SJ Elementor Addon is Elementor Page Builder's Addon Pack. Quickly add SVG, Image separator to your row. Just Drag, Drop and Enjoy.
